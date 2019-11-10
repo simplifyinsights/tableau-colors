@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+
+<workbook>
+	<preferences>
+        <color-palette name="Metro Colors" type="regular" >
+            <color>#a4c400</color>
+            <color>#60a917</color>
+            <color>#008a00</color>
+            <color>#00aba9</color>
+            <color>#1ba1e2</color>
+            <color>#0050ef</color>
+            <color>#6a00ff</color>
+            <color>#aa00ff</color>
+            <color>#f472d0</color>
+            <color>#d80073</color>
+            <color>#a20025</color>
+            <color>#e51400</color>
+            <color>#fa6800</color>
+            <color>#f0a30a</color>
+            <color>#e3c800</color>
+            <color>#825a2c</color>
+            <color>#6d8764</color>
+            <color>#647687</color>
+            <color>#76608a</color>
+            <color>#a0522d</color>
+        </color-palette>
+     </preferences>
+</workbook>
