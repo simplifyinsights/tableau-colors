@@ -1,0 +1,90 @@
+<?xml version='1.0'?>
+
+<workbook>
+     <preferences>
+        <color-palette name="iOS UIColor Light Default" type="regular" >
+            <color>#007aff</color>
+            <color>#34c759</color>
+            <color>#5856d6</color>
+            <color>#ff9500</color>
+            <color>#ff2d55</color>
+            <color>#af52de</color>
+            <color>#ff3b30</color>
+            <color>#5ac8fa</color>
+            <color>#ffcc00</color>
+        </color-palette>
+
+        <color-palette name="iOS UIColor Dark Default" type="regular" >
+            <color>#0a84ff</color>
+            <color>#30d158</color>
+            <color>#5e5ce6</color>
+            <color>#ff9f0a</color>
+            <color>#ff375f</color>
+            <color>#bf5af2</color>
+            <color>#ff453a</color>
+            <color>#64d2ff</color>
+            <color>#ffd60a</color>
+        </color-palette>
+
+        <color-palette name="iOS UIColor Light Accessible" type="regular" >
+            <color>#0040dd</color>
+            <color>#248a3d</color>
+            <color>#3634a3</color>
+            <color>#c93400</color>
+            <color>#d30f45</color>
+            <color>#8944ab</color>
+            <color>#d70015</color>
+            <color>#0071a4</color>
+            <color>#a05a00</color>
+        </color-palette>
+
+        <color-palette name="iOS UIColor Dark Accessible" type="regular" >
+            <color>#409cff</color>
+            <color>#30db5b</color>
+            <color>#7d7aff</color>
+            <color>#ffb340</color>
+            <color>#ff6482</color>
+            <color>#da8fff</color>
+            <color>#ff6961</color>
+            <color>#70d7ff</color>
+            <color>#ffd426</color>
+        </color-palette>
+
+        <color-palette name="iOS System Colors Light Default" type="regular" >
+            <color>#f2f2f7</color>
+            <color>#e5e5ea</color>
+            <color>#d1d1d6</color>
+            <color>#c7c7cc</color>
+            <color>#aeaeb2</color>
+            <color>#8e8e93</color>
+        </color-palette>
+
+        <color-palette name="iOS System Colors Dark Default" type="regular" >
+            <color>#8e8e93</color>
+            <color>#636366</color>
+            <color>#48484a</color>
+            <color>#3a3a3c</color>
+            <color>#2c2c2e</color>
+            <color>#1c1c1e</color>
+        </color-palette>
+
+        <color-palette name="iOS System Colors Light Accessible" type="regular" >
+            <color>#ebebf0</color>
+            <color>#d8d8dc</color>
+            <color>#bcbcc0</color>
+            <color>#aeaeb2</color>
+            <color>#8e8e93</color>
+            <color>#6c6c70</color>
+        </color-palette>
+
+        <color-palette name="iOS System Colors Dark Accessible" type="regular" >
+            <color>#aeaeb2</color>
+            <color>#7c7c80</color>
+            <color>#545456</color>
+            <color>#444446</color>
+            <color>#363638</color>
+            <color>#242426</color>
+        </color-palette>
+
+     </preferences>
+</workbook>
