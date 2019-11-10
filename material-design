@@ -1,0 +1,584 @@
+<?xml version='1.0'?>
+
+<workbook>
+	<preferences>
+        <color-palette name="Material Design Red" type="regular" >
+            <color>#FFEBEE</color>
+            <color>#FFCDD2</color>
+            <color>#EF9A9A</color>
+            <color>#E57373</color>
+            <color>#EF5350</color>
+            <color>#F44336</color>
+            <color>#E53935</color>
+            <color>#D32F2F</color>
+            <color>#C62828</color>
+            <color>#B71C1C</color>
+        </color-palette>
+
+        <color-palette name="Material Design Pink" type="regular" >
+            <color>#FCE4EC</color>
+            <color>#F8BBD0</color>
+            <color>#F48FB1</color>
+            <color>#F06292</color>
+            <color>#EC407A</color>
+            <color>#E91E63</color>
+            <color>#D81B60</color>
+            <color>#C2185B</color>
+            <color>#AD1457</color>
+            <color>#880E4F</color>
+        </color-palette>
+
+        <color-palette name="Material Design Purple" type="regular" >
+            <color>#F3E5F5</color>
+            <color>#E1BEE7</color>
+            <color>#CE93D8</color>
+            <color>#BA68C8</color>
+            <color>#AB47BC</color>
+            <color>#9C27B0</color>
+            <color>#8E24AA</color>
+            <color>#7B1FA2</color>
+            <color>#6A1B9A</color>
+            <color>#4A148C</color>
+        </color-palette>
+
+        <color-palette name="Material Design Deep Purple" type="regular" >
+            <color>#EDE7F6</color>
+            <color>#D1C4E9</color>
+            <color>#B39DDB</color>
+            <color>#9575CD</color>
+            <color>#7E57C2</color>
+            <color>#673AB7</color>
+            <color>#5E35B1</color>
+            <color>#512DA8</color>
+            <color>#4527A0</color>
+            <color>#311B92</color>
+        </color-palette>
+
+        <color-palette name="Material Design Indigo" type="regular" >
+            <color>#E8EAF6</color>
+            <color>#C5CAE9</color>
+            <color>#9FA8DA</color>
+            <color>#7986CB</color>
+            <color>#5C6BC0</color>
+            <color>#3F51B5</color>
+            <color>#3949AB</color>
+            <color>#303F9F</color>
+            <color>#283593</color>
+            <color>#1A237E</color>
+        </color-palette>
+
+        <color-palette name="Material Design Blue" type="regular" >
+            <color>#E3F2FD</color>
+            <color>#BBDEFB</color>
+            <color>#90CAF9</color>
+            <color>#64B5F6</color>
+            <color>#42A5F5</color>
+            <color>#2196F3</color>
+            <color>#1E88E5</color>
+            <color>#1976D2</color>
+            <color>#1565C0</color>
+            <color>#0D47A1</color>
+        </color-palette>
+
+        <color-palette name="Material Design Light Blue" type="regular" >
+            <color>#E1F5FE</color>
+            <color>#B3E5FC</color>
+            <color>#81D4FA</color>
+            <color>#4FC3F7</color>
+            <color>#29B6F6</color>
+            <color>#03A9F4</color>
+            <color>#039BE5</color>
+            <color>#0288D1</color>
+            <color>#0277BD</color>
+            <color>#01579B</color>
+        </color-palette>
+
+        <color-palette name="Material Design Cyan" type="regular" >
+            <color>#E0F7FA</color>
+            <color>#B2EBF2</color>
+            <color>#80DEEA</color>
+            <color>#4DD0E1</color>
+            <color>#26C6DA</color>
+            <color>#00BCD4</color>
+            <color>#00ACC1</color>
+            <color>#0097A7</color>
+            <color>#00838F</color>
+            <color>#006064</color>
+        </color-palette>
+
+        <color-palette name="Material Design Teal" type="regular" >
+            <color>#E0F2F1</color>
+            <color>#B2DFDB</color>
+            <color>#80CBC4</color>
+            <color>#4DB6AC</color>
+            <color>#26A69A</color>
+            <color>#009688</color>
+            <color>#00897B</color>
+            <color>#00796B</color>
+            <color>#00695C</color>
+            <color>#004D40</color>
+        </color-palette>
+
+        <color-palette name="Material Design Green" type="regular" >
+            <color>#E8F5E9</color>
+            <color>#C8E6C9</color>
+            <color>#A5D6A7</color>
+            <color>#81C784</color>
+            <color>#66BB6A</color>
+            <color>#4CAF50</color>
+            <color>#43A047</color>
+            <color>#388E3C</color>
+            <color>#2E7D32</color>
+            <color>#1B5E20</color>
+        </color-palette>
+
+        <color-palette name="Material Design Light Green" type="regular" >
+            <color>#F1F8E9</color>
+            <color>#DCEDC8</color>
+            <color>#C5E1A5</color>
+            <color>#AED581</color>
+            <color>#9CCC65</color>
+            <color>#8BC34A</color>
+            <color>#7CB342</color>
+            <color>#689F38</color>
+            <color>#558B2F</color>
+            <color>#33691E</color>
+        </color-palette>
+
+        <color-palette name="Material Design Lime" type="regular" >
+            <color>#F1F8E9</color>
+            <color>#F0F4C3</color>
+            <color>#E6EE9C</color>
+            <color>#DCE775</color>
+            <color>#D4E157</color>
+            <color>#CDDC39</color>
+            <color>#C0CA33</color>
+            <color>#AFB42B</color>
+            <color>#9E9D24</color>
+            <color>#827717</color>
+        </color-palette>
+
+        <color-palette name="Material Design Yellow" type="regular" >
+            <color>#FFFDE7</color>
+            <color>#FFF9C4</color>
+            <color>#FFF59D</color>
+            <color>#FFF176</color>
+            <color>#FFEE58</color>
+            <color>#FFEB3B</color>
+            <color>#FDD835</color>
+            <color>#FBC02D</color>
+            <color>#F9A825</color>
+            <color>#F57F17</color>
+        </color-palette>
+
+        <color-palette name="Material Design Amber" type="regular" >
+            <color>#FFF8E1</color>
+            <color>#FFECB3</color>
+            <color>#FFE082</color>
+            <color>#FFD54F</color>
+            <color>#FFCA28</color>
+            <color>#FFC107</color>
+            <color>#FFB300</color>
+            <color>#FFA000</color>
+            <color>#FF8F00</color>
+            <color>#FF6F00</color>
+        </color-palette>
+
+        <color-palette name="Material Design Orange" type="regular" >
+            <color>#FFF3E0</color>
+            <color>#FFE0B2</color>
+            <color>#FFCC80</color>
+            <color>#FFB74D</color>
+            <color>#FFA726</color>
+            <color>#FF9800</color>
+            <color>#FB8C00</color>
+            <color>#F57C00</color>
+            <color>#EF6C00</color>
+            <color>#E65100</color>
+        </color-palette>
+
+        <color-palette name="Material Design Deep Orange" type="regular" >
+            <color>#FBE9E7</color>
+            <color>#FFCCBC</color>
+            <color>#FFAB91</color>
+            <color>#FF8A65</color>
+            <color>#FF7043</color>
+            <color>#FF5722</color>
+            <color>#F4511E</color>
+            <color>#E64A19</color>
+            <color>#D84315</color>
+            <color>#BF360C</color>
+        </color-palette>
+
+        <color-palette name="Material Design Brown" type="regular" >
+            <color>#EFEBE9</color>
+            <color>#D7CCC8</color>
+            <color>#BCAAA4</color>
+            <color>#A1887F</color>
+            <color>#8D6E63</color>
+            <color>#795548</color>
+            <color>#6D4C41</color>
+            <color>#5D4037</color>
+            <color>#4E342E</color>
+            <color>#3E2723</color>
+        </color-palette>
+
+        <color-palette name="Material Design Grey" type="regular" >
+            <color>#FAFAFA</color>
+            <color>#F5F5F5</color>
+            <color>#EEEEEE</color>
+            <color>#E0E0E0</color>
+            <color>#BDBDBD</color>
+            <color>#9E9E9E</color>
+            <color>#757575</color>
+            <color>#616161</color>
+            <color>#424242</color>
+            <color>#212121</color>
+        </color-palette>
+
+        <color-palette name="Material Design Blue Grey" type="regular" >
+            <color>#ECEFF1</color>
+            <color>#CFD8DC</color>
+            <color>#B0BEC5</color>
+            <color>#90A4AE</color>
+            <color>#78909C</color>
+            <color>#607D8B</color>
+            <color>#546E7A</color>
+            <color>#455A64</color>
+            <color>#37474F</color>
+            <color>#263238</color>
+        </color-palette>
+
+        <color-palette name="Material Design Black and White" type="regular" >
+            <color>#000000</color>
+            <color>#FFFFFF</color>
+        </color-palette>
+
+        <color-palette name="Material Design A100" type="regular" >
+            <color>#FF8A80</color>
+            <color>#FF80AB</color>
+            <color>#EA80FC</color>
+            <color>#B388FF</color>
+            <color>#8C9EFF</color>
+            <color>#82B1FF</color>
+            <color>#80D8FF</color>
+            <color>#84FFFF</color>
+            <color>#A7FFEB</color>
+            <color>#B9F6CA</color>
+            <color>#CCFF90</color>
+            <color>#F4FF81</color>
+            <color>#FFFF8D</color>
+            <color>#FFE57F</color>
+            <color>#FFD180</color>
+            <color>#FF9E80</color>
+        </color-palette>
+
+        <color-palette name="Material Design A200" type="regular" >
+            <color>#FF5252</color>
+            <color>#FF4081</color>
+            <color>#E040FB</color>
+            <color>#7C4DFF</color>
+            <color>#536DFE</color>
+            <color>#448AFF</color>
+            <color>#40C4FF</color>
+            <color>#18FFFF</color>
+            <color>#64FFDA</color>
+            <color>#69F0AE</color>
+            <color>#B2FF59</color>
+            <color>#EEFF41</color>
+            <color>#FFFF00</color>
+            <color>#FFD740</color>
+            <color>#FFAB40</color>
+            <color>#FF6E40</color>
+        </color-palette>
+
+        <color-palette name="Material Design A400" type="regular" >
+            <color>#FF1744</color>
+            <color>#F50057</color>
+            <color>#D500F9</color>
+            <color>#651FFF</color>
+            <color>#3D5AFE</color>
+            <color>#2979FF</color>
+            <color>#00B0FF</color>
+            <color>#00E5FF</color>
+            <color>#1DE9B6</color>
+            <color>#00E676</color>
+            <color>#76FF03</color>
+            <color>#C6FF00</color>
+            <color>#FFEA00</color>
+            <color>#FFC400</color>
+            <color>#FF9100</color>
+            <color>#FF3D00</color>
+        </color-palette>  
+    
+        <color-palette name="Material Design A700" type="regular" >
+            <color>#D50000</color>
+            <color>#C51162</color>
+            <color>#AA00FF</color>
+            <color>#6200EA</color>
+            <color>#304FFE</color>
+            <color>#2962FF</color>
+            <color>#0091EA</color>
+            <color>#00B8D4</color>
+            <color>#00BFA5</color>
+            <color>#00C853</color>
+            <color>#64DD17</color>
+            <color>#AEEA00</color>
+            <color>#FFD600</color>
+            <color>#FFAB00</color>
+            <color>#FF6D00</color>
+            <color>#DD2C00</color>
+        </color-palette>
+
+        <color-palette name="Material Design Red Seq" type="ordered-sequential" >
+            <color>#FFEBEE</color>
+            <color>#FFCDD2</color>
+            <color>#EF9A9A</color>
+            <color>#E57373</color>
+            <color>#EF5350</color>
+            <color>#F44336</color>
+            <color>#E53935</color>
+            <color>#D32F2F</color>
+            <color>#C62828</color>
+            <color>#B71C1C</color>
+        </color-palette>
+
+        <color-palette name="Material Design Pink Seq" type="ordered-sequential" >
+            <color>#FCE4EC</color>
+            <color>#F8BBD0</color>
+            <color>#F48FB1</color>
+            <color>#F06292</color>
+            <color>#EC407A</color>
+            <color>#E91E63</color>
+            <color>#D81B60</color>
+            <color>#C2185B</color>
+            <color>#AD1457</color>
+            <color>#880E4F</color>
+        </color-palette>
+
+        <color-palette name="Material Design Purple Seq" type="ordered-sequential" >
+            <color>#F3E5F5</color>
+            <color>#E1BEE7</color>
+            <color>#CE93D8</color>
+            <color>#BA68C8</color>
+            <color>#AB47BC</color>
+            <color>#9C27B0</color>
+            <color>#8E24AA</color>
+            <color>#7B1FA2</color>
+            <color>#6A1B9A</color>
+            <color>#4A148C</color>
+        </color-palette>
+
+        <color-palette name="Material Design Deep Purple Seq" type="ordered-sequential" >
+            <color>#EDE7F6</color>
+            <color>#D1C4E9</color>
+            <color>#B39DDB</color>
+            <color>#9575CD</color>
+            <color>#7E57C2</color>
+            <color>#673AB7</color>
+            <color>#5E35B1</color>
+            <color>#512DA8</color>
+            <color>#4527A0</color>
+            <color>#311B92</color>
+        </color-palette>
+
+        <color-palette name="Material Design Indigo Seq" type="ordered-sequential" >
+            <color>#E8EAF6</color>
+            <color>#C5CAE9</color>
+            <color>#9FA8DA</color>
+            <color>#7986CB</color>
+            <color>#5C6BC0</color>
+            <color>#3F51B5</color>
+            <color>#3949AB</color>
+            <color>#303F9F</color>
+            <color>#283593</color>
+            <color>#1A237E</color>
+        </color-palette>
+
+        <color-palette name="Material Design Blue Seq" type="ordered-sequential" >
+            <color>#E3F2FD</color>
+            <color>#BBDEFB</color>
+            <color>#90CAF9</color>
+            <color>#64B5F6</color>
+            <color>#42A5F5</color>
+            <color>#2196F3</color>
+            <color>#1E88E5</color>
+            <color>#1976D2</color>
+            <color>#1565C0</color>
+            <color>#0D47A1</color>
+        </color-palette>
+
+        <color-palette name="Material Design Light Blue Seq" type="ordered-sequential" >
+            <color>#E1F5FE</color>
+            <color>#B3E5FC</color>
+            <color>#81D4FA</color>
+            <color>#4FC3F7</color>
+            <color>#29B6F6</color>
+            <color>#03A9F4</color>
+            <color>#039BE5</color>
+            <color>#0288D1</color>
+            <color>#0277BD</color>
+            <color>#01579B</color>
+        </color-palette>
+
+        <color-palette name="Material Design Cyan Seq" type="ordered-sequential" >
+            <color>#E0F7FA</color>
+            <color>#B2EBF2</color>
+            <color>#80DEEA</color>
+            <color>#4DD0E1</color>
+            <color>#26C6DA</color>
+            <color>#00BCD4</color>
+            <color>#00ACC1</color>
+            <color>#0097A7</color>
+            <color>#00838F</color>
+            <color>#006064</color>
+        </color-palette>
+
+        <color-palette name="Material Design Teal Seq" type="ordered-sequential" >
+            <color>#E0F2F1</color>
+            <color>#B2DFDB</color>
+            <color>#80CBC4</color>
+            <color>#4DB6AC</color>
+            <color>#26A69A</color>
+            <color>#009688</color>
+            <color>#00897B</color>
+            <color>#00796B</color>
+            <color>#00695C</color>
+            <color>#004D40</color>
+        </color-palette>
+
+        <color-palette name="Material Design Green Seq" type="ordered-sequential" >
+            <color>#E8F5E9</color>
+            <color>#C8E6C9</color>
+            <color>#A5D6A7</color>
+            <color>#81C784</color>
+            <color>#66BB6A</color>
+            <color>#4CAF50</color>
+            <color>#43A047</color>
+            <color>#388E3C</color>
+            <color>#2E7D32</color>
+            <color>#1B5E20</color>
+        </color-palette>
+
+        <color-palette name="Material Design Light Green Seq" type="ordered-sequential" >
+            <color>#F1F8E9</color>
+            <color>#DCEDC8</color>
+            <color>#C5E1A5</color>
+            <color>#AED581</color>
+            <color>#9CCC65</color>
+            <color>#8BC34A</color>
+            <color>#7CB342</color>
+            <color>#689F38</color>
+            <color>#558B2F</color>
+            <color>#33691E</color>
+        </color-palette>
+
+        <color-palette name="Material Design Lime Seq" type="ordered-sequential" >
+            <color>#F1F8E9</color>
+            <color>#F0F4C3</color>
+            <color>#E6EE9C</color>
+            <color>#DCE775</color>
+            <color>#D4E157</color>
+            <color>#CDDC39</color>
+            <color>#C0CA33</color>
+            <color>#AFB42B</color>
+            <color>#9E9D24</color>
+            <color>#827717</color>
+        </color-palette>
+
+        <color-palette name="Material Design Yellow Seq" type="ordered-sequential" >
+            <color>#FFFDE7</color>
+            <color>#FFF9C4</color>
+            <color>#FFF59D</color>
+            <color>#FFF176</color>
+            <color>#FFEE58</color>
+            <color>#FFEB3B</color>
+            <color>#FDD835</color>
+            <color>#FBC02D</color>
+            <color>#F9A825</color>
+            <color>#F57F17</color>
+        </color-palette>
+
+        <color-palette name="Material Design Amber Seq" type="ordered-sequential" >
+            <color>#FFF8E1</color>
+            <color>#FFECB3</color>
+            <color>#FFE082</color>
+            <color>#FFD54F</color>
+            <color>#FFCA28</color>
+            <color>#FFC107</color>
+            <color>#FFB300</color>
+            <color>#FFA000</color>
+            <color>#FF8F00</color>
+            <color>#FF6F00</color>
+        </color-palette>
+
+        <color-palette name="Material Design Orange Seq" type="ordered-sequential" >
+            <color>#FFF3E0</color>
+            <color>#FFE0B2</color>
+            <color>#FFCC80</color>
+            <color>#FFB74D</color>
+            <color>#FFA726</color>
+            <color>#FF9800</color>
+            <color>#FB8C00</color>
+            <color>#F57C00</color>
+            <color>#EF6C00</color>
+            <color>#E65100</color>
+        </color-palette>
+
+        <color-palette name="Material Design Deep Orange Seq" type="ordered-sequential" >
+            <color>#FBE9E7</color>
+            <color>#FFCCBC</color>
+            <color>#FFAB91</color>
+            <color>#FF8A65</color>
+            <color>#FF7043</color>
+            <color>#FF5722</color>
+            <color>#F4511E</color>
+            <color>#E64A19</color>
+            <color>#D84315</color>
+            <color>#BF360C</color>
+        </color-palette>
+  
+        <color-palette name="Material Design Brown Seq" type="ordered-sequential" >
+            <color>#EFEBE9</color>
+            <color>#D7CCC8</color>
+            <color>#BCAAA4</color>
+            <color>#A1887F</color>
+            <color>#8D6E63</color>
+            <color>#795548</color>
+            <color>#6D4C41</color>
+            <color>#5D4037</color>
+            <color>#4E342E</color>
+            <color>#3E2723</color>
+        </color-palette>
+    
+        <color-palette name="Material Design Grey Seq" type="ordered-sequential" >
+            <color>#FAFAFA</color>
+            <color>#F5F5F5</color>
+            <color>#EEEEEE</color>
+            <color>#E0E0E0</color>
+            <color>#BDBDBD</color>
+            <color>#9E9E9E</color>
+            <color>#757575</color>
+            <color>#616161</color>
+            <color>#424242</color>
+            <color>#212121</color>
+        </color-palette>
+        <color-palette name="Material Design Blue Grey Seq" type="ordered-sequential" >
+            <color>#ECEFF1</color>
+            <color>#CFD8DC</color>
+            <color>#B0BEC5</color>
+            <color>#90A4AE</color>
+            <color>#78909C</color>
+            <color>#607D8B</color>
+            <color>#546E7A</color>
+            <color>#455A64</color>
+            <color>#37474F</color>
+            <color>#263238</color>
+        </color-palette>
+    
+        <color-palette name="Material Design Black and White Seq" type="ordered-sequential" >
+            <color>#000000</color>
+            <color>#FFFFFF</color>
+        </color-palette>
+  	</preferences>
+</workbook>
