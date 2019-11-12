@@ -17,3 +17,7 @@ Website: https://developer.apple.com/design/human-interface-guidelines/ios/visua
 ## Metro
 
 Microsoft design language (or MDL)is a design language created by Microsoft. The design language evolved in Windows Media Center and Zune and was formally introduced as Metro during the unveiling of Windows Phone 7.
+
+## Social Platforms
+
+Added 20 colors for the main Social platforms. When combined with our Icon library, we will have both the Icons and Colors for generating Social Platform based dashboards.
