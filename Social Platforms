@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+
+<workbook>
+	<preferences>
+        <color-palette name="Social Platform" type="regular" >
+            <color name="Facebook">#3b5998</color>
+            <color name="Twitter">#1da1f2</color>
+            <color name="YouTube">#ff0000</color>
+            <color name="Instagram">#c32aa3</color>
+            <color name="Pinterest">#bd081c</color>
+            <color name="LinkedIn">#007bb5</color>
+            <color name="Snapchat">#fffc00</color>
+            <color name="WhatsApp">#25d366</color>
+            <color name="Tumblr">#35465d</color>
+            <color name="Reddit">#ff4500</color>
+            <color name="Yelp">#d32323</color>
+            <color name="Spotify">#1ed760</color>
+            <color name="Foursquare">#f94877</color>
+            <color name="Swarm">#ffa633</color>
+            <color name="Medium">#02b875</color>
+            <color name="Vimeo">#1ab7ea</color>
+            <color name="Quora">#aa2200</color>
+            <color name="Slack">#4a154b</color>
+            <color name="Twitch">#9146ff</color>
+            <color name="Skype">#00aff0</color>
+        </color-palette>
+     </preferences>
+</workbook>
